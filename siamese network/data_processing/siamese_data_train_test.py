@@ -1,10 +1,10 @@
 import numpy as np
 import cPickle
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import  train_test_split
 #import read_vec
 
 class WORD(object):
-    def __init__(self, d, n, dataset = 'University Course Dataset', pn='', datapath = '', test_perc=0.20):
+    def __init__(self, d, n, dataset = 'NPTEL MOOC Dataset', pn='', datapath = '', test_perc=0.20):
         self.dim = d
 	self.w, self.ind_wtrain, self.vocab = self.load_data(n, dataset, pn, datapath)
 	#self.augment_data()
@@ -27,7 +27,7 @@ class WORD(object):
             	neg.append((v,u))
 	self.x_train = self.x_train + neg
 	self.y_train = self.y_train + [0]*len(neg)
-    return 
+        return
 
     def get_gt(self, path, all_concepts):
         preqs = []

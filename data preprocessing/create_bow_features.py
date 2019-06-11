@@ -4,6 +4,8 @@ import subprocess
 import os
 import csv
 import pickle
+
+dataPath="../datasets/NPTEL MOOC Dataset/";
 def create_bow(course_text, vocab=[]):
     print "Creating the bag of words...\n"
     vectorizer = CountVectorizer(analyzer = "word",   \
@@ -20,12 +22,12 @@ def create_bow(course_text, vocab=[]):
     # strings.
     train_data_features = vectorizer.fit_transform(course_text)
     train_data_features = train_data_features.toarray()
-    write_unicode_file(reduce(lambda x ,y: x+y+unicode('\n'), vectorizer.get_feature_names(), unicode('')), 'vocab.txt')
+    write_unicode_file(reduce(lambda x ,y: x+y+unicode('\n'), vectorizer.get_feature_names(), unicode('')), dataPath+'vocab.txt')
     return train_data_features
 
 
 def write_bow(data):
-    file = open('bow_feature.txt', 'w')
+    file = open(dataPath+'bow_feature.txt', 'w')
     for each in data:
         w = each.nonzero()[0]
         bow_str = reduce(lambda x,y: x+' '+str(y)+':'+str(each[y]), w, str(len(w)))
@@ -65,18 +67,18 @@ def process_vocab(l):
 all_text = []
 id_dict = {}
 index = 1
-with open('cs_courses.csv', 'rb') as f:
+with open(dataPath+'cs_courses.csv', 'rb') as f:
     reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_ALL)
     for row in reader:    
         id_dict[row[0]] = index
         index = index + 1
         text = row[1]
         all_text.append(text)
-vocab = process_vocab(pickle.load(open('concept_vocab.pkl')).values())
+vocab = process_vocab(pickle.load(open(dataPath+'concept_vocab.pkl')).values())
 train_data_features = create_bow(all_text, vocab)
 write_bow(train_data_features)
-write_file(id_dict, 'id_map.txt')
-write_links('cs_edges.csv', 'prerequisites.link', id_dict)
+write_file(id_dict, dataPath+'id_map.txt')
+write_links(dataPath+'cs_edges.csv', dataPath+'prerequisites.link', id_dict)
 
 # id_dict = eval(open('id_map.txt').read())
 # for i in range(100, 900, 100):

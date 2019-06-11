@@ -4,6 +4,8 @@ from nltk.corpus import stopwords
 from nltk.stem.lancaster import LancasterStemmer
 st = LancasterStemmer() #this is a really bad stemmer
 
+dataPath="../datasets/NPTEL MOOC Dataset/";
+
 def lemmatize(text):
 	text = unicode(text, errors='replace').strip().lower()
 	t = ' '.join([st.stem(word) for word in text.split() if word not in (stopwords.words('english'))])
@@ -29,7 +31,7 @@ vocab_dict = {}
 vocab_dict_ori = {}
 vocab_dic = {}
 i = 0
-with open('vocab.txt', 'r') as f:
+with open(dataPath+'vocab.txt', 'r') as f:
 	for w in f:
 		vocab_dict_ori[w.strip().lower()] = i
 		ww = lemmatize(w)
@@ -39,9 +41,9 @@ with open('vocab.txt', 'r') as f:
 		i = i+1
 
 concept_vocab = {}
-of = open('cs_preqs_index.txt', 'w')
+of = open(dataPath+'cs_preqs_index.txt', 'w')
 map_dict = {}
-with open('cs_preqs.csv', 'rb') as f:
+with open(dataPath+'cs_preq.csv', 'rb') as f:
     reader = csv.reader(f, delimiter=',', quoting=csv.QUOTE_ALL)
     for row in reader:
 	    i1 = get_ind(row[0])
@@ -52,7 +54,7 @@ with open('cs_preqs.csv', 'rb') as f:
 	    	concept_vocab[i2] = row[1]
 	    # else:
 	    # 	print "ERROR: Vocab not found!!\n", w1, str(vocab_dict.get(w1)), w2, str(vocab_dict.get(w2))
-with open('concept_vocab.pkl', 'wb') as fid:
+with open(dataPath+'concept_vocab.pkl', 'wb') as fid:
 	cPickle.dump(concept_vocab, fid)
 for k in map_dict.keys():
 	print k.strip(), '  ', strip_w(map_dict[k])

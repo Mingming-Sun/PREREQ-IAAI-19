@@ -1,1037 +1,989 @@
-(dp0
+(dp1
 I0
-S'lock'
-p1
-sI1
-S'volume rendering'
+S'Lock_(computer_science)'
 p2
-sI2
-S'graphical model'
+sI1
+S'Volume_rendering'
 p3
-sI3
-S'logic'
+sI2
+S'Graphical_model'
 p4
-sI4
-S'graph'
+sI3
+S'Logic'
 p5
-sI5
-S'file system'
+sI4
+S'File_system'
 p6
-sI6
-S'vulnerability'
+sI5
+S'Vulnerability_(computing)'
 p7
-sI7
-S'cloud computing'
+sI6
+S'Cloud_computing'
 p8
-sI8
-S'nonlinear system'
+sI7
+S'Nonlinear_system'
 p9
-sI9
-S'robot'
+sI8
+S'Robot'
 p10
-sI10
-S'quantum computer'
+sI9
+S'Quantum_computer'
 p11
-sI11
-S'quantum cryptography'
+sI10
+S'Quantum_cryptography'
 p12
-sI12
-S'quantum mechanics'
+sI11
+S'Quantum_mechanics'
 p13
-sI13
-S'cluster analysis'
+sI12
+S'Cluster_analysis'
 p14
-sI14
-S'logic programming'
+sI13
+S'Logic_programming'
 p15
-sI15
-S'robotics'
+sI14
+S'Robotics'
 p16
-sI16
-S'ml'
+sI15
+S'ML_(programming_language)'
 p17
-sI17
-S'wavelet'
+sI16
+S'Wavelet'
 p18
-sI18
-S'very long instruction word'
+sI17
+S'Very_long_instruction_word'
 p19
-sI19
-S'concurrency control'
+sI18
+S'Concurrency_control'
 p20
-sI20
-S'mobile device'
+sI19
+S'Mobile_device'
 p21
-sI21
-S'query language'
+sI20
+S'Query_language'
 p22
-sI22
-S'perl'
+sI21
+S'Perl'
 p23
-sI23
-S'np-complete'
+sI22
+S'Query_optimization'
 p24
-sI24
-S'query optimization'
+sI23
+S'Concurrency_(computer_science)'
 p25
-sI25
-S'concurrency'
+sI24
+S'Concurrent_computing'
 p26
-sI26
-S'concurrent computing'
+sI25
+S'Question_answering'
 p27
-sI27
-S'question answering'
+sI26
+S'Finite_difference'
 p28
-sI28
-S'finite difference'
+sI27
+S'Web_browser'
 p29
-sI29
-S'web browser'
+sI28
+S'Finite_element_method'
 p30
-sI30
-S'finite element method'
+sI29
+S'Personal_computer'
 p31
-sI31
-S'finite-state machine'
+sI30
+S'Conditional_probability'
 p32
-sI32
-S'personal computer'
+sI31
+S'Firewall_(computing)'
 p33
-sI33
-S'conditional probability'
+sI32
+S'Java_(programming_language)'
 p34
-sI34
-S'firewall'
+sI33
+S'Web_search_engine'
 p35
-sI35
-S'java'
+sI34
+S'Fixed_point_(mathematics)'
 p36
-sI36
-S'web search engine'
+sI35
+S'Numerical_analysis'
 p37
-sI37
-S'fixed point'
+sI36
+S'Web_server'
 p38
-sI38
-S'numerical analysis'
+sI37
+S'JavaScript'
 p39
-sI39
-S'web server'
+sI38
+S'Web_service'
 p40
-sI40
-S'javascript'
+sI39
+S'Machine_learning'
 p41
-sI41
-S'web service'
+sI40
+S'3D_modeling'
 p42
-sI42
-S'machine learning'
+sI41
+S'Random_graph'
 p43
-sI43
-S'3d modeling'
+sI42
+S'Index_(database)'
 p44
-sI44
-S'random graph'
+sI43
+S'Floating_point'
 p45
-sI45
-S'index'
+sI44
+S'Halting_problem'
 p46
-sI46
-S'floating point'
+sI45
+S'Congestion_control'
 p47
-sI47
-S'halting problem'
+sI46
+S'Analysis_of_algorithms'
 p48
-sI48
-S'congestion control'
+sI47
+S'Random_walk'
 p49
-sI49
-S'analysis of algorithms'
+sI48
+S'Randomization'
 p50
-sI50
-S'round-off error'
+sI49
+S'Machine_translation'
 p51
-sI51
-S'random walk'
+sI50
+S'Routing'
 p52
-sI52
-S'randomization'
+sI51
+S'Randomized_algorithm'
 p53
-sI53
-S'machine translation'
+sI52
+S'Data_(computing)'
 p54
-sI54
-S'routing'
+sI53
+S'Randomness'
 p55
-sI55
-S'randomized algorithm'
+sI54
+S'Turing_machine'
 p56
-sI56
-S'data'
+sI55
+S'Data_analysis'
 p57
-sI57
-S'randomness'
+sI56
+S'Run_time_(program_lifecycle_phase)'
 p58
-sI58
-S'object-oriented programming'
+sI57
+S'Object_(computer_science)'
 p59
-sI59
-S'turing machine'
+sI58
+S'Inequality_(mathematics)'
 p60
-sI60
-S'data analysis'
+sI59
+S'Combinatorics'
 p61
-sI61
-S'run time'
+sI60
+S'Inference'
 p62
-sI62
-S'object'
+sI61
+S'Type_system'
 p63
-sI63
-S'inequality'
+sI62
+S'Kinematics'
 p64
-sI64
-S'combinatorics'
+sI63
+S'Bayesian'
 p65
-sI65
-S'inference'
+sI64
+S'Bayesian_network'
 p66
-sI66
-S'type system'
+sI65
+S'Social_network'
 p67
-sI67
-S'kinematics'
+sI66
+S'Ray_tracing_(graphics)'
 p68
-sI68
-S'bayesian'
+sI67
+S'Hash_table'
 p69
-sI69
-S'bayesian network'
+sI68
+S'Differential_equation'
 p70
-sI70
-S'social network'
+sI69
+S'Matrix_(mathematics)'
 p71
-sI71
-S'ray tracing'
+sI70
+S'Abstract_data_type'
 p72
-sI72
-S'hash table'
+sI71
+S'Data_mining'
 p73
-sI73
-S'differential equation'
+sI72
+S'Information_assurance'
 p74
-sI74
-S'matrix'
+sI73
+S'Haskell_(programming_language)'
 p75
-sI75
-S'abstract data type'
+sI74
+S'Model_of_computation'
 p76
-sI76
-S'data mining'
+sI75
+S'Software_design'
 p77
-sI77
-S'information assurance'
+sI76
+S'Scalability'
 p78
-sI78
-S'haskell'
+sI77
+S'Communication'
 p79
-sI79
-S'model of computation'
+sI78
+S'Software_development'
 p80
-sI80
-S'software design'
+sI79
+S'Uncertainty'
 p81
-sI81
-S'scalability'
+sI80
+S'Application_programming_interface'
 p82
-sI82
-S'communication'
+sI81
+S'Abstraction_(computer_science)'
 p83
-sI83
-S'software development'
+sI82
+S'Software_engineering'
 p84
-sI84
-S'uncertainty'
+sI83
+S'Big_data'
 p85
-sI85
-S'application programming interface'
+sI84
+S'Profiling_(computer_programming)'
 p86
-sI86
-S'abstraction'
+sI85
+S'Formal_language'
 p87
-sI87
-S'software engineering'
+sI86
+S'Program_analysis'
 p88
-sI88
-S'big data'
+sI87
+S'Information_security'
 p89
-sI89
-S'profiling'
+sI88
+S'Malware'
 p90
-sI90
-S'formal language'
+sI89
+S'Tensor'
 p91
-sI91
-S'program analysis'
+sI90
+S'Formal_methods'
 p92
-sI92
-S'information security'
+sI91
+S'Digital_signature'
 p93
-sI93
-S'malware'
+sI92
+S'Data_structure'
 p94
-sI94
-S'tensor'
+sI93
+S'Reason'
 p95
-sI95
-S'formal methods'
+sI94
+S'Software_framework'
 p96
-sI96
-S'digital signature'
+sI95
+S'Communications_protocol'
 p97
-sI97
-S'data structure'
+sI96
+S'Formal_verification'
 p98
-sI98
-S'reason'
+sI97
+S'Bioinformatics'
 p99
-sI99
-S'software framework'
+sI98
+S'Operating_system'
 p100
-sI100
-S'communications protocol'
+sI99
+S'Inheritance_(object-oriented_programming)'
 p101
-sI101
-S'formal verification'
+sI100
+S'World_Wide_Web'
 p102
-sI102
-S'bioinformatics'
+sI101
+S'Hidden_Markov_model'
 p103
-sI103
-S'operating system'
+sI102
+S'Programmer'
 p104
-sI104
-S'inheritance'
+sI103
+S'Entropy'
 p105
-sI105
-S'world wide web'
+sI104
+S'Data_type'
 p106
-sI106
-S'hidden markov model'
+sI105
+S'Image_analysis'
 p107
-sI107
-S'programmer'
+sI106
+S'Scheduling_(computing)'
 p108
-sI108
-S'entropy'
+sI107
+S'Relational_algebra'
 p109
-sI109
-S'data type'
+sI108
+S'Data_warehouse'
 p110
-sI110
-S'image analysis'
+sI109
+S'Database'
 p111
-sI111
-S'context-free language'
+sI110
+S'Software_testing'
 p112
-sI112
-S'scheduling'
+sI111
+S'Database_management_system'
 p113
-sI113
-S'relational algebra'
+sI112
+S'Database_normalization'
 p114
-sI114
-S'data warehouse'
+sI113
+S'Foundations_of_mathematics'
 p115
-sI115
-S'input/output'
+sI114
+S'Fourier_analysis'
 p116
-sI116
-S'database'
+sI115
+S'Recommender_system'
 p117
-sI117
-S'software testing'
+sI116
+S'Instruction_set'
 p118
-sI118
-S'database management system'
+sI117
+S'Discrete_mathematics'
 p119
-sI119
-S'database normalization'
+sI118
+S'Compiler'
 p120
-sI120
-S'higher-order function'
+sI119
+S'Knowledge_representation_and_reasoning'
 p121
-sI121
-S'foundations of mathematics'
+sI120
+S'MapReduce'
 p122
-sI122
-S'fourier analysis'
+sI121
+S'Sufficient_statistic'
 p123
-sI123
-S'recommender system'
+sI122
+S'Recurrence_relation'
 p124
-sI124
-S'instruction set'
+sI123
+S'Database_system'
 p125
-sI125
-S'discrete mathematics'
+sI124
+S'Modular_programming'
 p126
-sI126
-S'compiler'
+sI125
+S'Markov_chain'
 p127
-sI127
-S'knowledge representation and reasoning'
+sI126
+S'Relational_model'
 p128
-sI128
-S'mapreduce'
+sI127
+S'HTML'
 p129
-sI129
-S'sufficient statistic'
+sI128
+S'Integer'
 p130
-sI130
-S'recurrence relation'
+sI129
+S'Scientific_modelling'
 p131
-sI131
-S'database system'
+sI130
+S'Markov_process'
 p132
-sI132
-S'modular programming'
+sI131
+S'Deadlock'
 p133
-sI133
-S'markov chain'
+sI132
+S'Integral'
 p134
-sI134
-S'relational model'
+sI133
+S'Theoretical_computer_science'
 p135
-sI135
-S'html'
+sI134
+S'Programming_language'
 p136
-sI136
-S'integer'
+sI135
+S'Martingale_(probability_theory)'
 p137
-sI137
-S'scientific modelling'
+sI136
+S'Superscalar'
 p138
-sI138
-S'markov process'
+sI137
+S'Unix'
 p139
-sI139
-S'deadlock'
+sI138
+S'Boundary_value_problem'
 p140
-sI140
-S'recursion'
+sI139
+S'Debugging'
 p141
-sI141
-S'integral'
+sI140
+S'Polymorphism_(computer_science)'
 p142
-sI142
-S'theoretical computer science'
+sI141
+S'Unsupervised_learning'
 p143
-sI143
-S'programming language'
+sI142
+S'Polynomial'
 p144
-sI144
-S'martingale'
+sI143
+S'Recursion'
 p145
-sI145
-S'superscalar'
+sI144
+S'Recursively_enumerable_set'
 p146
-sI146
-S'unix'
+sI145
+S'Support_vector_machine'
 p147
-sI147
-S'boundary value problem'
+sI146
+S'Monad_(functional_programming)'
 p148
-sI148
-S'human-computer interaction'
+sI147
+S'Computation'
 p149
-sI149
-S'debugging'
+sI148
+S'Scientific_visualization'
 p150
-sI150
-S'polymorphism'
+sI149
+S'Theory_of_computation'
 p151
-sI151
-S'unsupervised learning'
+sI150
+S'Monte_Carlo_method'
 p152
-sI152
-S'polynomial'
+sI151
+S'Design_of_experiments'
 p153
-sI153
-S'recursion'
+sI152
+S'hypothesis_testing'
 p154
-sI154
-S'recursively enumerable set'
+sI153
+S'Decision_theory'
 p155
-sI155
-S'support vector machine'
+sI154
+S'Scope_(computer_science)'
 p156
-sI156
-S'monad'
+sI155
+S'Programming_paradigm'
 p157
-sI157
-S'computation'
+sI156
+S'Scripting_language'
 p158
-sI158
-S'scientific visualization'
+sI157
+S'Estimation_theory'
 p159
-sI159
-S'theory of computation'
+sI158
+S'Distributed_algorithms'
 p160
-sI160
-S'monte carlo method'
+sI159
+S'Large_deviations_theory'
 p161
-sI161
-S'design of experiments'
+sI160
+S'Distributed_computing'
 p162
-sI162
-S'hypothesis testing'
+sI161
+S'Complexity'
 p163
-sI163
-S'decision theory'
+sI162
+S'Motion_capture'
 p164
-sI164
-S'scope'
+sI163
+S'Complexity_class'
 p165
-sI165
-S'programming paradigm'
+sI164
+S'Motion_planning'
 p166
-sI166
-S'scripting language'
+sI165
+S'Approximation'
 p167
-sI167
-S'estimation theory'
+sI166
+S'Approximation_algorithm'
 p168
-sI168
-S'distributed algorithms'
+sI167
+S'NP_(complexity)'
 p169
-sI169
-S'large deviations theory'
+sI168
+S'Regular_expression'
 p170
-sI170
-S'distributed computing'
+sI169
+S'Mathematical_model'
 p171
-sI171
-S'complexity'
+sI170
+S'Regular_language'
 p172
-sI172
-S'motion capture'
+sI171
+S'Symbol_table'
 p173
-sI173
-S'complexity class'
+sI172
+S'Mathematical_proof'
 p174
-sI174
-S'motion planning'
+sI173
+S'Ordinary_differential_equation'
 p175
-sI175
-S'approximation'
+sI174
+S'Programming_style'
 p176
-sI176
-S'approximation algorithm'
+sI175
+S'Reinforcement_learning'
 p177
-sI177
-S'np'
+sI176
+S'Symmetric_multiprocessing'
 p178
-sI178
-S'regular expression'
+sI177
+S'Mathematics'
 p179
-sI179
-S'mathematical model'
+sI178
+S'Spanning_tree'
 p180
-sI180
-S'regular language'
+sI179
+S'Synchronization'
 p181
-sI181
-S'symbol table'
+sI180
+S'Divide_and_conquer_algorithm'
 p182
-sI182
-S'mathematical proof'
+sI181
+S'Sparse_matrix'
 p183
-sI183
-S'ordinary differential equation'
+sI182
+S'MATLAB'
 p184
-sI184
-S'programming style'
+sI183
+S'Security'
 p185
-sI185
-S'inter-process communication'
+sI184
+S'Lazy_evaluation'
 p186
-sI186
-S'reinforcement learning'
+sI185
+S'Denotational_semantics'
 p187
-sI187
-S'symmetric multiprocessing'
+sI186
+S'Document_classification'
 p188
-sI188
-S'mathematics'
+sI187
+S'Cache_coherence'
 p189
-sI189
-S'spanning tree'
+sI188
+S'Image'
 p190
-sI190
-S'synchronization'
+sI189
+S'Syntax'
 p191
-sI191
-S'divide and conquer algorithm'
+sI190
+S'User_interface'
 p192
-sI192
-S'sparse matrix'
+sI191
+S'User_interface_design'
 p193
-sI193
-S'matlab'
+sI192
+S'Relational_database'
 p194
-sI194
-S'security'
+sI193
+S'PSPACE'
 p195
-sI195
-S'lazy evaluation'
+sI194
+S'Computability'
 p196
-sI196
-S'denotational semantics'
+sI195
+S'Image_processing'
 p197
-sI197
-S'document classification'
+sI196
+S'Interactivity'
 p198
-sI198
-S'cache coherence'
+sI197
+S'Calculus'
 p199
-sI199
-S'image'
+sI198
+S'Shared_memory'
 p200
-sI200
-S'syntax'
+sI199
+S'Time_complexity'
 p201
-sI201
-S'user interface'
+sI200
+S'Multiplication'
 p202
-sI202
-S'user interface design'
+sI201
+S'Algebra'
 p203
-sI203
-S'relational database'
+sI202
+S'Predicate_logic'
 p204
-sI204
-S'pspace'
+sI203
+S'Prediction'
 p205
-sI205
-S'computability'
+sI204
+S'Undecidable_problem'
 p206
-sI206
-S'image processing'
+sI205
+S'OSI_model'
 p207
-sI207
-S'interactivity'
+sI206
+S'Mechanical_engineering'
 p208
-sI208
-S'calculus'
+sI207
+S'Speech_recognition'
 p209
-sI209
-S'shared memory'
+sI208
+S'Iterative_method'
 p210
-sI210
-S'time complexity'
+sI209
+S'Algorithm'
 p211
-sI211
-S'multiplication'
+sI210
+S'Algorithm_design'
 p212
-sI212
-S'algebra'
+sI211
+S'Computational_complexity_theory'
 p213
-sI213
-S'predicate logic'
+sI212
+S'Number_theory'
 p214
-sI214
-S'prediction'
+sI213
+S'Model_checking'
 p215
-sI215
-S'undecidable problem'
+sI214
+S'Imperative_programming'
 p216
-sI216
-S'osi model'
+sI215
+S'Game_theory'
 p217
-sI217
-S'mechanical engineering'
+sI216
+S'Computational_geometry'
 p218
-sI218
-S'speech recognition'
+sI217
+S'Automated_theorem_proving'
 p219
-sI219
-S'iterative method'
+sI218
+S'Dynamic_memory_allocation'
 p220
-sI220
-S'algorithm'
+sI219
+S'Mutual_exclusion'
 p221
-sI221
-S'interface'
+sI220
+S'Dynamic_programming'
 p222
-sI222
-S'algorithm design'
+sI221
+S'Computational_problem'
 p223
-sI223
-S'computational complexity theory'
+sI222
+S'Arithmetic'
 p224
-sI224
-S'number theory'
+sI223
+S'Computational_learning_theory'
 p225
-sI225
-S'model checking'
+sI224
+S'Internet'
 p226
-sI226
-S'imperative programming'
+sI225
+S'Information_theory'
 p227
-sI227
-S'game theory'
+sI226
+S'SQL'
 p228
-sI228
-S'computational geometry'
+sI227
+S'Computer_animation'
 p229
-sI229
-S'automated theorem proving'
+sI228
+S'Garbage_collection_(computer_science)'
 p230
-sI230
-S'dynamic memory allocation'
+sI229
+S'Internet_Protocol_Suite'
 p231
-sI231
-S'mutual exclusion'
+sI230
+S'Packet_switching'
 p232
-sI232
-S'dynamic programming'
+sI231
+S'Computational_science'
 p233
-sI233
-S'computational problem'
+sI232
+S'Arithmetic_logic_unit'
 p234
-sI234
-S'arithmetic'
+sI233
+S'Interpolation'
 p235
-sI235
-S'computational learning theory'
+sI234
+S'Semantics'
 p236
-sI236
-S'internet'
+sI235
+S'Natural_language'
 p237
-sI237
-S'information theory'
+sI236
+S'Natural_language_processing'
 p238
-sI238
-S'sql'
+sI237
+S'Prolog'
 p239
-sI239
-S'computer animation'
+sI238
+S'Semantics_of_programming_languages'
 p240
-sI240
-S'garbage collection'
+sI239
+S'Artificial_intelligence'
 p241
-sI241
-S'internet protocol suite'
+sI240
+S'Computer'
 p242
-sI242
-S'packet switching'
+sI241
+S'Memory_hierarchy'
 p243
-sI243
-S'computational science'
+sI242
+S'Coding_theory'
 p244
-sI244
-S'arithmetic logic unit'
+sI243
+S'Memory_management'
 p245
-sI245
-S'interpolation'
+sI244
+S'Computer_architecture'
 p246
-sI246
-S'semantics'
+sI245
+S'Transaction_processing'
 p247
-sI247
-S'natural language'
+sI246
+S'Expert_system'
 p248
-sI248
-S'natural language processing'
+sI247
+S'Semidefinite_programming'
 p249
-sI249
-S'prolog'
+sI248
+S'Computer_graphics'
 p250
-sI250
-S'semantics of programming languages'
+sI249
+S'Assembly_language'
 p251
-sI251
-S'artificial intelligence'
+sI250
+S'Parallel_algorithm'
 p252
-sI252
-S'computer'
+sI251
+S'Generic_programming'
 p253
-sI253
-S'memory hierarchy'
+sI252
+S'Genetic_algorithm'
 p254
-sI254
-S'coding theory'
+sI253
+S'Message_passing'
 p255
-sI255
-S'memory management'
+sI254
+S'Lexical_analysis'
 p256
-sI256
-S'computer architecture'
+sI255
+S'Lexical_semantics'
 p257
-sI257
-S'transaction processing'
+sI256
+S'Parallel_computing'
 p258
-sI258
-S'expert system'
+sI257
+S'Interaction_design'
 p259
-sI259
-S'semidefinite programming'
+sI258
+S'Variable_(computer_science)'
 p260
-sI260
-S'computer graphics'
+sI259
+S'Exponential_family'
 p261
-sI261
-S'assembly language'
+sI260
+S'Statistical_inference'
 p262
-sI262
-S'parallel algorithm'
+sI261
+S'Vector_processor'
 p263
-sI263
-S'generic programming'
+sI262
+S'Computer_network'
 p264
-sI264
-S'genetic algorithm'
+sI263
+S'Sentiment_analysis'
 p265
-sI265
-S'message passing'
+sI264
+S'Statistics'
 p266
-sI266
-S'lexical analysis'
+sI265
+S'Sequence_alignment'
 p267
-sI267
-S'lexical semantics'
+sI266
+S'Computer_programming'
 p268
-sI268
-S'parallel computing'
+sI267
+S'Geometric_modeling'
 p269
-sI269
-S'interaction design'
+sI268
+S'Introduction_to_Algorithms'
 p270
-sI270
-S'variable'
+sI269
+S'Computer_science'
 p271
-sI271
-S'exponential family'
+sI270
+S'Network_security'
 p272
-sI272
-S'statistical inference'
+sI271
+S'System_programming'
 p273
-sI273
-S'vector processor'
+sI272
+S'Eigenvalues_and_eigenvectors'
 p274
-sI274
-S'computer network'
+sI273
+S'Geometry'
 p275
-sI275
-S'sentiment analysis'
+sI274
+S'Stochastic'
 p276
-sI276
-S'statistics'
+sI275
+S'Random_variable'
 p277
-sI277
-S'design pattern'
+sI276
+S'Parsing'
 p278
-sI278
-S'sequence alignment'
+sI277
+S'Stochastic_process'
 p279
-sI279
-S'computer programming'
+sI278
+S'Asymptotic_analysis'
 p280
-sI280
-S'geometric modeling'
+sI279
+S'Computer_security'
 p281
-sI281
-S'introduction to algorithms'
+sI280
+S'Atomicity_(database_systems)'
 p282
-sI282
-S'computer science'
+sI281
+S'Functional_programming'
 p283
-sI283
-S'network security'
+sI282
+S'Partial_differential_equation'
 p284
-sI284
-S'system programming'
+sI283
+S'Computer_simulation'
 p285
-sI285
-S'eigenvalues and eigenvectors'
+sI284
+S'Computer_software'
 p286
-sI286
-S'geometry'
+sI285
+S'Server_(computing)'
 p287
-sI287
-S'stochastic'
+sI286
+S'Computer_vision'
 p288
-sI288
-S'random variable'
+sI287
+S'Linear_algebra'
 p289
-sI289
-S'parsing'
+sI288
+S'Probability'
 p290
-sI290
-S'stochastic process'
+sI289
+S'Rendering_(computer_graphics)'
 p291
-sI291
-S'asymptotic analysis'
+sI290
+S'Virtual_memory'
 p292
-sI292
-S'computer security'
+sI291
+S'Linear_programming'
 p293
-sI293
-S'atomicity'
+sI292
+S'Virtual_reality'
 p294
-sI294
-S'functional programming'
+sI293
+S'GPU'
 p295
-sI295
-S'partial differential equation'
+sI294
+S'Authentication'
 p296
-sI296
-S'computer simulation'
+sI295
+S'Probability_theory'
 p297
-sI297
-S'computer software'
+sI296
+S'Gradient_descent'
 p298
-sI298
-S'context-free grammar'
+sI297
+S'String_(computer_science)'
 p299
-sI299
-S'server'
+sI298
+S'Computing'
 p300
-sI300
-S'computer vision'
+sI299
+S'Linear_system'
 p301
-sI301
-S'linear algebra'
+sI300
+S'Shading'
 p302
-sI302
-S'probability'
+sI301
+S'Amortized_analysis'
 p303
-sI303
-S'rendering'
+sI302
+S'Pattern_matching'
 p304
-sI304
-S'virtual memory'
+sI303
+S'Pattern_recognition'
 p305
-sI305
-S'linear programming'
+sI304
+S'Automata_theory'
 p306
-sI306
-S'virtual reality'
+sI305
+S'Problem_solving'
 p307
-sI307
-S'gpu'
+sI306
+S'Linked_list'
 p308
-sI308
-S'authentication'
+sI307
+S'Fast_Fourier_transform'
 p309
-sI309
-S'probability theory'
+sI308
+S'Python_(programming_language)'
 p310
-sI310
-S'gradient descent'
+sI309
+S'Automatic_programming'
 p311
-sI311
-S'string'
+sI310
+S'Lisp_(programming_language)'
 p312
-sI312
-S'computing'
+sI311
+S'Traffic_analysis'
 p313
-sI313
-S'linear system'
+sI312
+S'Neural_network'
 p314
-sI314
-S'shading'
+sI313
+S'Feature_extraction'
 p315
-sI315
-S'amortized analysis'
+sI314
+S'Graph_coloring'
 p316
-sI316
-S'pattern matching'
+sI315
+S'Autonomous_robot'
 p317
-sI317
-S'pattern recognition'
+sI316
+S'Graph_theory'
 p318
-sI318
-S'automata theory'
+sI317
+S'Structured_programming'
 p319
-sI319
-S'problem solving'
+sI318
+S'Embedded_system'
 p320
-sI320
-S'linked list'
+sI319
+S'Microprocessor'
 p321
-sI321
-S'fast fourier transform'
+sI320
+S'Pushdown_automata'
 p322
-sI322
-S'python'
+sI321
+S'Cryptanalysis'
 p323
-sI323
-S'automatic programming'
+sI322
+S'Database_design'
 p324
-sI324
-S'lisp'
+sI323
+S'Signal_processing'
 p325
-sI325
-S'traffic analysis'
+sI324
+S'Graphical_user_interface'
 p326
-sI326
-S'public-key cryptography'
+sI325
+S'Graph_(mathematics)'
 p327
-sI327
-S'neural network'
+sI326
+S'Kernel_(computing)'
 p328
-sI328
-S'feature extraction'
+sI327
+S'Cryptography'
 p329
-sI329
-S'graph coloring'
+sI328
+S'Visualization_(computer_graphics)'
 p330
-sI330
-S'autonomous robot'
-p331
-sI331
-S'graph theory'
-p332
-sI332
-S'peer-to-peer'
-p333
-sI333
-S'structured programming'
-p334
-sI334
-S'embedded system'
-p335
-sI335
-S'microprocessor'
-p336
-sI336
-S'pushdown automata'
-p337
-sI337
-S'cryptanalysis'
-p338
-sI338
-S'database design'
-p339
-sI339
-S'signal processing'
-p340
-sI340
-S'graphical user interface'
-p341
-sI341
-S'graphics'
-p342
-sI342
-S'kernel'
-p343
-sI343
-S'cryptography'
-p344
-sI344
-S'visualization'
-p345
 s.
